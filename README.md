@@ -296,7 +296,6 @@ http://localhost:5000
 
 * Note categories and folders
 * Rich text editor support
-* Dark mode
 * Pagination for notes
 * File attachments
 * User profile management
